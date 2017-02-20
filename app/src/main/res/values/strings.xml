@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RxNorm Drug Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_heading">RxNorm Drug Information</string>
+    <string name="get_info">Get Drug Info</string>
+    <string name="refresh">Clear</string>
+    <string name="txt_name">Enter DrugName</string>
+    <string name="hint">cymbalta</string>
+    <string name="invalid_input">RxNormDrugName field cannot be empty. Please specify a drug name.</string>
+    <string name="response_empty">Please enter a valid drug name.</string>
+    <string name="response_error">Error getting response. Please try again after sometime.</string>
+</resources>
